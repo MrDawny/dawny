@@ -1,4 +1,6 @@
-local ModIDs = {}
+local ModIDs = {
+2824112481, --Dawny_GemsHelper17, owner acc 1
+}
 
 local success, err = pcall(function()
     for i,v in pairs(game.Players:GetChildren()) do
